@@ -1,4 +1,4 @@
-const { someController, dependencies } = require('./some-controller');
+const { someController, dependencies } = require('./someController');
 
 describe('someController', () => {
   let reqStub;
